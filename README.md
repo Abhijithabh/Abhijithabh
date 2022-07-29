@@ -1,4 +1,13 @@
-### Hi there friends, Abhijith Asokkumar here👋
+# Hi there friends, Abhijith Asokkumar here👋
+😄 Pronouns: **HE/Him**
+
+🤔 I’m looking for help with 
+```ts
+'how to improve my open source journey' ;
+```
+🌱 *I’m currently learning* **java**
+
+How to reach me: [Twitter](https://twitter.com/Abhi_asokkumar)
 
 <!--
 **Abhijithabh/Abhijithabh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
