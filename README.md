@@ -9,7 +9,7 @@
 
 How to reach me: [Twitter](https://twitter.com/Abhi_asokkumar)
 
-![Abhijith Asokkumar]()
+![Abhijith Asokkumar](https://github.com/account)
 
 <!--
 **Abhijithabh/Abhijithabh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
