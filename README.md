@@ -7,7 +7,9 @@
 ```
 🌱 *I’m currently learning* **java**
 
-How to reach me: [Twitter](https://twitter.com/Abhi_asokkumar)
+- [x] How to reach me: [Twitter](https://twitter.com/Abhi_asokkumar)
+
+
 
 <!--![Abhijith Asokkumar](https://avatars.githubusercontent.com/u/68798545?v=4)-->
 
